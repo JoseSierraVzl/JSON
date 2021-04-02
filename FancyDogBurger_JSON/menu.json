@@ -1,16 +1,16 @@
 {
-    "categoria": "Perros Caliente",
+    "categoria": "PERROS CALIENTES",
     "tipos": [
 
 	    {
-	        "titulo": "Perro Simple",
+	        "titulo": "PERRO PEQUEÑO",
 	        "ingredientes": ["Salchicha, Papas, Salsa de Tomate, Mayonesa, Mostaza, Ensalada, Queso"],
 	        "precioEn$": "1$",
 	        "precioEnBs": "2.300.000,00Bs"
 	    },
 
 	    {
-	        "titulo": "Perro Especial",
+	        "titulo": "PERRO GRANDE",
 	        "ingredientes": "En busqueda",
 	        "precioEn$": "Calculando...",
 	        "precioEnBs": "Calculando..."
